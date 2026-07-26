@@ -17,6 +17,7 @@
 ### Добавление двух хостов и привязка шаблонов
 
 ![Задание 2_3](https://github.com/rooot-root/Zabbix_NETODOL2/blob/master/task2-3.png);
+![Задание 2_3](https://github.com/rooot-root/Zabbix_NETODOL2/blob/master/task2-3_(2).png)
 
 ## Задание 4
 ### Создание кастомного дашборда
