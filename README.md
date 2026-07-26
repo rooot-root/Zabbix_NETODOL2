@@ -328,9 +328,9 @@ sudo stress-ng --cpu 4 --timeout 60
 Скриншот: Задание 4
 
 
-![task1](https://github.com/rooot-root/Zabbix_NETODOL2/blob/master/task1.png);
-![task2_3](https://github.com/rooot-root/Zabbix_NETODOL2/blob/master/task2_3.png);
-![task4](https://github.com/rooot-root/Zabbix_NETODOL2/blob/master/task4.png);
+![Задание 1](https://github.com/rooot-root/Zabbix_NETODOL2/blob/master/task1.png);
+![Задание 2_3](https://github.com/rooot-root/Zabbix_NETODOL2/blob/master/task2_3.png);
+![Задание 4](https://github.com/rooot-root/Zabbix_NETODOL2/blob/master/task4.png);
 
 
 
