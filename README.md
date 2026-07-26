@@ -3,6 +3,10 @@
 **Дата выполнения:** 25.07.2026
 **Номер занятия:** 8-03-hw
 
+![Задание 1](https://github.com/rooot-root/Zabbix_NETODOL2/blob/master/task1.png);
+![Задание 2_3](https://github.com/rooot-root/Zabbix_NETODOL2/blob/master/task2-3.png);
+![Задание 4](https://github.com/rooot-root/Zabbix_NETODOL2/blob/master/task4.png);
+
 ---
 
 ## Задание 1
@@ -329,7 +333,7 @@ sudo stress-ng --cpu 4 --timeout 60
 
 
 ![Задание 1](https://github.com/rooot-root/Zabbix_NETODOL2/blob/master/task1.png);
-![Задание 2_3](https://github.com/rooot-root/Zabbix_NETODOL2/blob/master/task2_3.png);
+![Задание 2_3](https://github.com/rooot-root/Zabbix_NETODOL2/blob/master/task2-3.png);
 ![Задание 4](https://github.com/rooot-root/Zabbix_NETODOL2/blob/master/task4.png);
 
 
